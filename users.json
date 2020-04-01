@@ -1,0 +1,10 @@
+[
+{"type":"header","version":"4.8.3","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"register-bd"},
+{"type":"table","name":"users","database":"register-bd","data":
+[
+{"id":"7","login":"RuVIPeR","pass":"3b411d5b5d21abe9b0edd8ff5140b5e9","name":"Алексей"},
+{"id":"6","login":"DArkii","pass":"4e7abd40dbc8b470a7c34f11de8f9683","name":"Аркадий"}
+]
+}
+]
